@@ -3,7 +3,7 @@
     <header id="header" class="header bg-white">
       <div class="navbar-container">
         <a href="/" class="navbar-logo">
-          <span>Tumo Blog</span>
+          <span>猫猫聚会 Blog</span>
         </a>
         <div class="navbar-menu">
           <a href="/">Home</a>
