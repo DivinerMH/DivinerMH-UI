@@ -44,7 +44,7 @@
       <el-button :loading="loading" type="primary" style="width:100%;margin-bottom:30px;" @click.native.prevent="handleLogin">Login</el-button>
 
       <div class="tips">
-        <span style="margin-right:20px;">username: tycoding</span>
+        <span style="margin-right:30px;">username: tycoding</span>
         <span> password: tycoding</span>
       </div>
 
@@ -57,6 +57,7 @@ export default {
   name: 'Login',
   data() {
     return {
+      // 便携登录提示
       loginForm: {
         username: 'tycoding',
         password: 'tycoding'

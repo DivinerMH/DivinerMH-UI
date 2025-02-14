@@ -28,8 +28,8 @@
         <div class="footer-container clearfix">
           <div class="social-list">
             <a class="social rss" target="blank" href="https://tycoding.cn/">BLOG</a>
-            <a class="social zhihu" target="blank" href="https://www.zhihu.com/people/tomo-83-82/activities">ZHIHU</a>
-            <a class="social github" target="blank" href="https://github.com/TyCoding">GITHUB</a>
+            <a class="social zhihu" target="blank" href="https://www.zhihu.com/people/bing-lan-60-27">ZHIHU</a>
+            <a class="social github" target="blank" href="https://github.com/DivinerMH">GITHUB</a>
           </div>
         </div>
       </div>
@@ -38,10 +38,10 @@
           <div class="meta-item meta-copyright">
             <div class="meta-copyright-info">
               <a href="/" class="info-logo">
-                <span>Tumo Blog</span>
+                <span>猫猫聚会 Blog</span>
               </a>
               <div class="info-text">
-                <p>© 2019 <a href="https://tycoding.cn/">TyCoding</a></p></div>
+                <p>© 2025 <a href="https://tycoding.cn/">DIVINER</a></p></div>
             </div>
           </div>
           <div class="meta-item meta-posts">

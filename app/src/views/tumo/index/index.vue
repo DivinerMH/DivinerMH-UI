@@ -165,9 +165,9 @@
                   <div class="info-text">
                     Blog：<a href="http://tycoding.cn" target="_blank">http://tycoding.cn</a>
                     <br>
-                    Github：<a href="https://github.com/TyCoding/" target="_blank">https://github.com/TyCoding/</a>
+                    Github：<a href="https://github.com/DivinerMH/" target="_blank">https://github.com/DivinerMH/</a>
                     <br>
-                    QQ Group: 671017003
+                    QQ Group: 1096464960
                   </div>
                 </el-card>
               </div>
@@ -239,6 +239,7 @@ export default {
         '今天您微笑了吗😊',
         '今天帮助别人了吗',
         '准备吃些什么呢',
+        '姣姣在等你吃饭哦~',
         '周末要不要去看电影？'
       ]
       var index = Math.floor((Math.random() * welcomeArr.length))
